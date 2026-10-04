@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Notchficator</title>
+        <item>
+            <title>1.0.10</title>
+            <pubDate>Sat, 03 Oct 2026 22:16:36 -0300</pubDate>
+            <link>https://github.com/Benfic4rthur/notchficator-Releases/releases</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Benfic4rthur/notchficator-Releases/releases/download/v1.0.10/Notchficator-1.0.10-Instalador.dmg" length="6437621" type="application/octet-stream" sparkle:edSignature="Fm51zPJN8ZRpuiPBRlNJidPEUH772xo1jl0i6GJ740JLf+3p8Irrr3DbMr2QPZWGbhwACdtH5NvD9fMlSHM/Cg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: jxpFDZ59ImP5m+FtwVUyV+h1YY1XtU50qKvJtiW2LnKkftHAXLQaed7YgcCsWLwUz6nsNFUmnvdeMk2Y8mNWAg==
+length: 1249
+-->
