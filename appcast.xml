@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Notchficator</title>
         <item>
+            <title>1.0.26</title>
+            <pubDate>Sun, 04 Oct 2026 22:15:16 -0300</pubDate>
+            <link>https://github.com/Benfic4rthur/notchficator-Releases/releases</link>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Benfic4rthur/notchficator-Releases/releases/download/v1.0.26/Notchficator-1.0.26-Instalador.dmg" length="5808940" type="application/octet-stream" sparkle:edSignature="H+TmeQzsU3vKl656sybJf0rrk5hBzcfF3e6Bh/+El6FUzch0bjKbSMBRTCISH/0JlbH59op6/U07CAfJ1+TABw=="/>
+        </item>
+        <item>
             <title>1.0.25</title>
             <pubDate>Sun, 04 Oct 2026 21:53:55 -0300</pubDate>
             <link>https://github.com/Benfic4rthur/notchficator-Releases/releases</link>
@@ -25,19 +35,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Benfic4rthur/notchficator-Releases/releases/download/v1.0.24/Notchficator-1.0.24-Instalador.dmg" length="5807537" type="application/octet-stream" sparkle:edSignature="YKSumSxXWayw7YbeOGqQrxwUlPA3ZY4zkT+D6V3mJbBY1gbc17F/KFZwZKOfUg0Z7cU0bB1rvp9HSh3zlOMRAQ=="/>
         </item>
-        <item>
-            <title>1.0.21</title>
-            <pubDate>Sun, 04 Oct 2026 03:36:21 -0300</pubDate>
-            <link>https://github.com/Benfic4rthur/notchficator-Releases/releases</link>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Benfic4rthur/notchficator-Releases/releases/download/v1.0.21/Notchficator-1.0.21-Instalador.dmg" length="5763645" type="application/octet-stream" sparkle:edSignature="AIQstzcYGH4DNwWwwpmlaT44mA8n3iGMnBd+OPaeb1I26kmr/YSDzBzC9VEgslSW933zfqo6iJ8kLZnHxrOADw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: NlYqZDP+XrMVnrCL18yaTupY/yIDz05dEtB9tbo5ry4DpSWmwuSu+ctnknMuH+PkrSClkz3z5c9jf241/NFGAg==
+edSignature: u+VbE7u+cSx9VGEIlpwEltKmTTZmXwjZJ5NCwfDGg+qnbZ87FihR0osczHCEzS8AbPLXPQKBP1VUSSMbIOanBA==
 length: 2851
 -->
